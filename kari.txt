@@ -1,0 +1,12 @@
+!pip install matplotlib
+
+#https://jakevdp.github.io/mpl_tutorial/tutorial_pages/tut1.html
+
+''''
+https://www.onlinegdb.com/online_python_compiler
+https://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/Typesetting%20Equations.html#The-Lorenz-Equations
+https://www.tutorialspoint.com/jupyter/jupyter_notebook_plotting.htm
+IPython has now only two roles to fulfill: being the Python backend to the Jupyter Notebook, which is also known as the kernel, and an interactive Python shell
+https://scipython.com/book/chapter-3-simple-plotting-with-pylab/examples/a-simple-plot-with-pylab/
+https://docs.scipy.org/doc/numpy/reference/generated/numpy.linalg.solve.html#numpy.linalg.solve
+´´´
